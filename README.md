@@ -1,10 +1,8 @@
 # ECE 313 Reference Pages
 
-This repository hosts a minimal GitHub Pages website containing reference PDFs for  
-**ECE 313 / MATH 362: Probability with Engineering Applications**.
+This repository hosts a minimal GitHub Pages website containing reference PDFs for **ECE 313 / MATH 362: Probability with Engineering Applications**.
 
-These notes are developed by Abhishek Umrawal and follow the lecture structure closely,  
-with improved organization, clarity, and visual representation.
+These notes are developed by Abhishek Umrawal and follow the lecture structure closely, with improved organization, clarity, and visual representation.
 
 ---
 
@@ -79,6 +77,4 @@ https://creativecommons.org/licenses/by-nd/4.0/
 
 ## Acknowledgments
 
-These notes are based in part on course materials and the approach developed for  
-ECE 313 / MATH 362 at the University of Illinois Urbana–Champaign,  
-including the foundational notes by Professor Bruce Hajek.
+These notes are based in part on course materials and the approach developed for ECE 313 / MATH 362 at the University of Illinois Urbana–Champaign,   including the foundational notes by Professor Bruce Hajek.
