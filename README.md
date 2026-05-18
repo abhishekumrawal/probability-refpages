@@ -24,9 +24,8 @@ Each chapter is provided as a standalone PDF:
 - Chapter 4: Conditional Probability and the Law of Total Probability  
 - Chapter 5: Bayes’ Theorem  
 - Chapter 6: Independence of Events  
-- Chapter 7: Random Variables  
-
-(Filenames match the uploaded PDFs directly, e.g., `ch01.pdf`, `ch02.pdf`.)
+- Chapter 7: Random Variables
+- More Chapters In Progress
 
 ---
 
