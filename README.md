@@ -8,7 +8,7 @@ These notes are developed by **Prof. Abhishek Umrawal** and follow the lecture s
 
 ## Website
 
-https://abhishekumrawal.github.io/refpages/
+https://abhishekumrawal.github.io/probability-refpages/
 
 ---
 
