@@ -8,6 +8,7 @@
       font-family: Arial, sans-serif;
       max-width: 900px;
       margin: 60px auto;
+      line-height: 1.6;
       padding: 0 20px;
     }
 
@@ -41,7 +42,6 @@
       color: black;
       transition: 0.2s ease;
       display: block;
-      position: relative;
     }
 
     .card:hover {
@@ -59,26 +59,11 @@
       color: #666;
     }
 
+    /* Coming soon styling */
     .coming {
-      color: #999;
       border-style: dashed;
-    }
-
-    .badge {
-      position: absolute;
-      top: 12px;
-      right: 12px;
-      font-size: 11px;
-      background: #eee;
-      color: #666;
-      padding: 3px 6px;
-      border-radius: 4px;
-    }
-
-    .references {
-      margin-top: 60px;
-      font-size: 14px;
-      color: #444;
+      color: #999;
+      pointer-events: none;
     }
 
   </style>
@@ -89,112 +74,89 @@
 <h1>ECE 313/MATH 362: Probability with Engineering Applications</h1>
 
 <p>
-https://ece.illinois.edu/about/directory/faculty/aumrawal
-  Prof. Abhishek Umrawal
-</a>
+  <a href="https://ece.illinois.edu/about/directory/faculty/aumrawal" target="_blank">
+    Prof. Abhishek Umrawal
+  </a>
 </p>
 
 <div class="grid">
 
-  ch01.pdf
+  <a class="card" href="ch01.pdf" target="_blank">
     <div class="title">ch01</div>
     <div class="desc">Course Introduction and Embracing Uncertainty</div>
   </a>
 
-  ch02.pdf
+  <a class="card" href="ch02.pdf" target="_blank">
     <div class="title">ch02</div>
     <div class="desc">Events, Axioms, and Probability Models</div>
   </a>
 
-  ch03.pdf
+  <a class="card" href="ch03.pdf" target="_blank">
     <div class="title">ch03</div>
     <div class="desc">Counting Principles and Equally Likely Outcomes</div>
   </a>
 
-  ch04.pdf
+  <a class="card" href="ch04.pdf" target="_blank">
     <div class="title">ch04</div>
     <div class="desc">Conditional Probability and the Law of Total Probability</div>
   </a>
 
-  ch05.pdf
+  <a class="card" href="ch05.pdf" target="_blank">
     <div class="title">ch05</div>
     <div class="desc">Bayes’ Theorem</div>
   </a>
 
-  ch06.pdf
+  <a class="card" href="ch06.pdf" target="_blank">
     <div class="title">ch06</div>
     <div class="desc">Independence of Events</div>
   </a>
 
-  ch07.pdf
+  <a class="card" href="ch07.pdf" target="_blank">
     <div class="title">ch07</div>
     <div class="desc">Random Variables</div>
   </a>
 
-  <!-- Coming Soon -->
+  <!-- Coming soon placeholders -->
 
   <div class="card coming">
-    <span class="badge">Coming soon</span>
     <div class="title">ch08</div>
     <div class="desc">Expectation and Variance (Discrete)</div>
   </div>
 
   <div class="card coming">
-    <span class="badge">Coming soon</span>
     <div class="title">ch09</div>
     <div class="desc">Inequalities and Confidence</div>
   </div>
 
   <div class="card coming">
-    <span class="badge">Coming soon</span>
     <div class="title">ch10</div>
     <div class="desc">Bernoulli and Binomial</div>
   </div>
 
   <div class="card coming">
-    <span class="badge">Coming soon</span>
     <div class="title">ch11</div>
     <div class="desc">Geometric and Negative Binomial</div>
   </div>
 
   <div class="card coming">
-    <span class="badge">Coming soon</span>
     <div class="title">ch12</div>
     <div class="desc">Poisson and Binomial Limit</div>
   </div>
 
   <div class="card coming">
-    <span class="badge">Coming soon</span>
     <div class="title">ch13</div>
     <div class="desc">Reliability and Union Bounds</div>
   </div>
 
   <div class="card coming">
-    <span class="badge">Coming soon</span>
     <div class="title">ch14</div>
     <div class="desc">Decision and Likelihoods</div>
   </div>
 
   <div class="card coming">
-    <span class="badge">Coming soon</span>
     <div class="title">ch15</div>
     <div class="desc">Hypothesis Testing</div>
   </div>
-
-</div>
-
-<div class="references">
-  <h3>References</h3>
-
-  <p>
-    [1] Bruce Hajek. Probability with Engineering Applications<br>
-    https://courses.grainger.illinois.edu/ece313/fa2020/probabilityJan25.pdf
-  </p>
-
-  <p>
-    [2] Abhishek Umrawal. ECE 313/MATH 362 Lecture Notes<br>
-    https://courses.grainger.illinois.edu/ece313/fa2025/
-  </p>
 
 </div>
 
