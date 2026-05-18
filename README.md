@@ -1,14 +1,13 @@
 # ECE 313 Reference Pages
 
-This repository hosts a GitHub Pages website containing reference PDFs for **ECE 313 / MATH 362: Probability with Engineering Applications**.
+This repository hosts a GitHub Pages website containing reference PDFs for  
+**ECE 313 / MATH 362 — Probability with Engineering Applications**.
 
-These notes are developed by Abhishek Umrawal and follow the lecture structure closely, with improved organization, clarity, and visual representation.
+These notes are developed by **Prof. Abhishek Umrawal** and follow the lecture structure closely, with improved organization, clarity, and visual representation.
 
 ---
 
 ## Website
-
-Access the reference pages here:
 
 https://abhishekumrawal.github.io/refpages/
 
@@ -24,43 +23,50 @@ Each chapter is provided as a standalone PDF:
 - Chapter 4: Conditional Probability and the Law of Total Probability  
 - Chapter 5: Bayes’ Theorem  
 - Chapter 6: Independence of Events  
-- Chapter 7: Random Variables
-- More Chapters In Progress
+- Chapter 7: Random Variables  
+- Chapter 8: Expectation and Variance (Discrete)  
+- Chapter 9: Inequalities and Confidence  
+- Chapter 10: Bernoulli and Binomial Distributions  
+- Chapter 11: Geometric and Negative Binomial Distributions  
+- Chapter 12: Poisson Distribution and Binomial Limit  
+- Chapter 13: Reliability and Union Bounds  
+- Chapter 14: Decision Making and Likelihoods  
+- Chapter 15: Hypothesis Testing (Discrete)  
+
+---
+
+## Status
+
+Work in progress — continuously updated.
+
+- Chapters are being refined incrementally  
+- Figures and diagrams are continuously improved  
+- Additional topics (distributions, expectation, limit theorems) are being integrated  
 
 ---
 
 ## Design Philosophy
 
 - Closely follows lecture development and sequencing  
-- Preserves the full detail of concepts and derivations  
-- Uses consistent diagrams to reflect mathematical structure  
-- Introduces concepts through intuition, visualization, and formal definitions  
-- Maintains a minimal and clean presentation  
-
----
-
-## Status
-
-🚧 **Work in progress**
-
-- Chapters are being refined incrementally  
-- Figures and diagrams are continuously improved  
-- Additional topics (distributions, expectation, limit theorems) will be added  
+- Preserves full conceptual detail and mathematical rigor  
+- Uses consistent diagrams to reflect the underlying structure  
+- Introduces concepts through intuition, visualization, and formalization  
+- Maintains a minimal and readable presentation  
 
 ---
 
 ## Usage
 
 - Visit the website  
-- Click on any chapter link to open the corresponding PDF  
-- Use the PDFs as structured reference material alongside lectures  
+- Select a chapter to open the corresponding PDF  
+- Use the material as a structured reference alongside lectures  
 
 ---
 
 ## Notes
 
 These reference pages are intended as a structured companion to lecture material,  
-preserving rigor while improving readability and organization.
+preserving rigor while improving clarity, organization, and accessibility.
 
 ---
 
@@ -68,7 +74,8 @@ preserving rigor while improving readability and organization.
 
 © 2026 Abhishek Umrawal  
 
-This work is licensed under the **Creative Commons Attribution–NoDerivatives 4.0 International License (CC BY–ND 4.0)**.  
+This work is licensed under the  
+Creative Commons Attribution–NoDerivatives 4.0 International License (CC BY–ND 4.0)  
 
 https://creativecommons.org/licenses/by-nd/4.0/
 
@@ -76,4 +83,4 @@ https://creativecommons.org/licenses/by-nd/4.0/
 
 ## Acknowledgments
 
-These notes are based in part on course materials and the approach developed for ECE 313 / MATH 362 at the University of Illinois Urbana–Champaign,   including the foundational notes by Professor Bruce Hajek.
+These notes build on the course structure and foundational material developed for ECE 313 / MATH 362 at the University of Illinois Urbana–Champaign, including the work of **Prof. Bruce Hajek**.
