@@ -74,7 +74,7 @@ preserving rigor while improving clarity, organization, and accessibility.
 © 2026 Abhishek Umrawal  
 
 This work is licensed under the  
-Creative Commons Attribution–NoDerivatives 4.0 International License (CC BY–ND 4.0)  
+Creative Commons Attribution–NoDerivatives 4.0 International License (CC BY–ND 4.0).  
 
 https://creativecommons.org/licenses/by-nd/4.0/
 
